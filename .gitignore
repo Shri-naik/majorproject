@@ -1,0 +1,10 @@
+build/
+dist/
+=======
+# Render build folders (if created later)
+build/
+dist/
+
+# Exclude TensorFlow environments
+tf210_env/
+tf310_env/
